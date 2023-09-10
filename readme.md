@@ -1,4 +1,5 @@
-# Awesome TidalCycles [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Tidal-cycle-gen
 
+Run ask-tidal-cycle-chord.sh
 
-Create your own tidal cycel code
+Get back a code to run in pulsar
